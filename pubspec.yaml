@@ -1,4 +1,4 @@
-name: brick_layer_test
+name: brick_oven_test
 description: A sample command-line application.
 version: 1.0.0
 publish_to: none
@@ -9,8 +9,8 @@ environment:
 
 
 dependencies:
-  brick_layer:
-    path: ../brick_layer
+  brick_oven:
+    path: ../brick_oven
 
 dev_dependencies:
   test: ^1.16.0

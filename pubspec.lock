@@ -36,10 +36,10 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
-  brick_layer:
+  brick_oven:
     dependency: "direct main"
     description:
-      path: "../brick_layer"
+      path: "../brick_oven"
       relative: true
     source: path
     version: "1.0.0"
