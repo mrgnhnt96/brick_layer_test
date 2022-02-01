@@ -1,4 +1,4 @@
-name: masonry_test
+name: brick_layer_test
 description: A sample command-line application.
 version: 1.0.0
 publish_to: none
@@ -9,8 +9,8 @@ environment:
 
 
 dependencies:
-  masonry:
-    path: ../masonry
+  brick_layer:
+    path: ../brick_layer
 
 dev_dependencies:
   test: ^1.16.0
