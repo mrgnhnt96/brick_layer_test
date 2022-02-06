@@ -1,5 +1,5 @@
-import 'package:brick_oven/brick_oven.dart' as bo;
+import 'package:brick_oven/brick_oven.dart';
 
 Future<void> testBrickOven() async {
-  bo.main([]);
+  await runBrickOven(const BrickArguments());
 }
